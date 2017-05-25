@@ -1,0 +1,3 @@
+requestWindowFeature(Window.FEATURE_NO_TITLE);//取消标题栏
+getWindow().setFlags(WindowManager.LayoutParams. FLAG_FULLSCREEN ,
+              WindowManager.LayoutParams. FLAG_FULLSCREEN);//全屏
